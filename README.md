@@ -1,3 +1,5 @@
+https://github.com/JamesOSullivan01/JamesOSullivan01/blob/main/profile_banner.jpeg
+
 ### Hi there 👋, James O'Sullivan
 #### Full-Stack Web Developer
 With 15 years in the military, I achieved my long-term goal of becoming a Special Forces Medical Sergeant. I am trusted for my expertise, leadership, and adherence to policies in high-stakes, austere environments.
