@@ -17,7 +17,5 @@ You can check out my LinkedIn here: https://www.linkedin.com/in/jamesaosullivan0
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesOSullivan01)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JamesOSullivan01)  
-
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesOSullivan01)](https://github.com/JamesOSullivan01/github-readme-stats)
 
