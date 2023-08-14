@@ -8,7 +8,7 @@ I successfully completed the intensive web development 'bootcamp' program at Cod
 
 Moving forward, I aspire to harness my proficiency in diverse domains such as special operations, technology development, and problem-solving to create forward-thinking solutions that elevate the overall quality of life for communities. Through the integration of cutting-edge technologies, streamlining operational workflows, and drawing upon my multifaceted background, I am dedicated to fostering positive transformation and establishing an elevated standard of well-being for individuals across the spectrum.
 
-Skills: Java | Spring MVC | Spring Boot | Hibernate | HTML | CSS | jQuery | JavaScript | Bootstrap | Git | Thymeleaf | MySQL | Apache Tomcat | Maven | J2EE | REST APIs | Spring Framework | JUnit Testing | | Kanban
+Skills: Java | Spring MVC | Spring Boot | Hibernate | HTML | CSS | jQuery | JavaScript | Bootstrap | Git | Thymeleaf | MySQL | Apache Tomcat | Maven | J2EE | REST APIs | Spring Framework | JUnit Testing | Kanban
 
 You can check out my LinkedIn here: https://www.linkedin.com/in/jamesaosullivan01/
 
