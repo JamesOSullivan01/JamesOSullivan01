@@ -1,4 +1,4 @@
-https://github.com/JamesOSullivan01/JamesOSullivan01/blob/main/profile_banner.jpeg
+![Design and Development](https://github.com/JamesOSullivan01/JamesOSullivan01/blob/main/profile_banner.jpeg)
 
 ### Hi there 👋, James O'Sullivan
 #### Full-Stack Web Developer
